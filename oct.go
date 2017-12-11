@@ -8,4 +8,5 @@ import(
 func Run(){
 	fmt.Println("Hello oct!")
 	mysql.Insert()
+	mysql.Select()
 }
